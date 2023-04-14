@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: aquirebold;
+  src: url("../src/assets/font/aquire-font/AquireBold-8Ma60.otf");
+}
+@font-face {
+  font-family: aquireregular;
+  src: url("../src/assets/font/aquire-font/Aquire-BW0ox.otf");
+}
+@font-face {
+  font-family: aquirelight;
+  src: url("../src/assets/font/aquire-font/AquireLight-YzE0o.otf");
+}
