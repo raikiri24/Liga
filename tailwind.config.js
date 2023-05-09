@@ -7,6 +7,7 @@ export default {
       aquirelight: ["aquirelight", "serif"],
       aquireregular: ["aquireregular", "serif"],
     },
+    
   },
   plugins: [],
 };

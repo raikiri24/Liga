@@ -14,3 +14,7 @@
   font-family: aquirelight;
   src: url("../src/assets/font/aquire-font/AquireLight-YzE0o.otf");
 }
+
+.transition-test{
+  transition:  opacity 2s ease-in;
+}

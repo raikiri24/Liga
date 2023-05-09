@@ -5,7 +5,7 @@ import Home from "./components/Home";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App px-10 py-2">
       <Navigation />
       <Routes>
         <Route path="/" element={<Home />} />
