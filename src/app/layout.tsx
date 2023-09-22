@@ -14,7 +14,7 @@ const aquire = localFont({
 function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
-      <body className={aquire.className}>{children}</body>
+      <body className={`${aquire.className} px-10`}>{children}</body>
     </html>
   );
 }
