@@ -4,7 +4,7 @@ import "./style.css";
 
 const TopNavigation = () => {
   return (
-    <div className="flex justify-between items-center">
+    <div className="flex justify-between items-center bg-white px-10 shadow-md">
       <div className="flex justify-center items-center gap-6">
         <span className="text-2xl p-2">
           <Link href="/" className="navlink relative">
